@@ -153,7 +153,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh-0817qiaoji/main/bili.json"
+      "ext": "https://raw.githubusercontent.com/bjdaxiongmao/00000/main/main/bili.json"
     },
     {
       "key": "AliPS",
@@ -202,7 +202,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0817qiaoji/MaooXP/huya2.json"
+      "ext": "https://raw.githubusercontent.com/bjdaxiongmao/00000/main/MaooXP2/huya2.json"
     },
     {
       "key": "csp_biubiu_斗鱼",
@@ -212,7 +212,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0817qiaoji/MaooXB2/斗鱼.json"
+      "ext": "https://raw.githubusercontent.com/bjdaxiongmao/00000/main/MaooXB2/%E6%96%97%E9%B1%BC.json"
     },
     {
       "key": "csp_xpath_kuqimv",
@@ -222,7 +222,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0817qiaoji/MaooXP/kuqimv.json"
+      "ext": "https://raw.githubusercontent.com/bjdaxiongmao/00000/main/MaooXP2/kuqimv.json"
     },
     {
       "key": "csp_biubiu_影视工厂",
@@ -232,7 +232,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0817qiaoji/MaooXB2/影视工厂.json"
+      "ext": "https://raw.githubusercontent.com/bjdaxiongmao/00000/main/MaooXB2/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%8E%82.json"
     },
     {
       "key": "csp_biubiu_555电影",
@@ -242,7 +242,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0817qiaoji/MaooXB2/555电影.json"
+      "ext": "https://raw.githubusercontent.com/bjdaxiongmao/00000/main/MaooXB2/555%E7%94%B5%E5%BD%B1.json"
     },
     {
       "key": "csp_biubiu_特狗影视",
